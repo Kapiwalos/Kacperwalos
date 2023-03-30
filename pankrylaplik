@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<<"Starogard Gdański – miasto w województwie pomorskim, siedziba powiatu starogardzkiego oraz gminy wiejskiej Starogard Gdański. Miasto leży nad rzeką Wierzycą na Pojezierzu Starogardzkim, należy do nadwiślańsko-pomorskiego regionu Kociewie, jest także jednym z najstarszych miast na Pomorzu."<<endl;
+    cout<<"Zapraszamy do Starogardu jest tu pięknie"<<endl;
+
+    return 0;
+}
